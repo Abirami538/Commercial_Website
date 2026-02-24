@@ -52,7 +52,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 Index.html
-~~~
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -144,10 +144,10 @@ Index.html
 
 </body>
 </html>
-~~~
+```
 
 Style.css
-~~~
+```
 * {
     margin: 0;
     padding: 0;
@@ -270,13 +270,18 @@ footer {
     text-align: center;
     padding: 10px;
 }
+```
 
 
 ## OUTPUT
 
-![WhatsApp Image 2026-02-24 at 3 15 58 PM](https://github.com/user-attachments/assets/d84608bf-b9a7-474f-8598-bdeb2d7386d9)
+<img width="1876" height="1067" alt="image" src="https://github.com/user-attachments/assets/639e352e-de2d-4853-9ac8-850e2ad1a5f6" />
 
-![WhatsApp Image 2026-02-24 at 3 16 15 PM](https://github.com/user-attachments/assets/b531a5e4-faf3-4824-a6c3-67501d8ecf86)
+<img width="1600" height="875" alt="image" src="https://github.com/user-attachments/assets/b3e11bf1-3d2f-4cc1-bf41-a07dd616ae6f" />
+
+
+
+
 
 
 ## RESULT
